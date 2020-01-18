@@ -12,5 +12,5 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  updated_array = array.pop(string)
+  updated_array = array.pop()
 end
